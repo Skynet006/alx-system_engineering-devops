@@ -7,3 +7,4 @@ then
 else
 	ping "$1" -c5
 fi
+
